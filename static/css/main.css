@@ -12,10 +12,12 @@ body {
     font-family:'Sofia';/*google font import by linking in main file*/
     color: #fff;
     cursor: pointer;
+
 }
 
 .nav-link {
     margin-right: 1em !important;
+    font-size: 20px;
 }
 
 .nav-link:hover {
